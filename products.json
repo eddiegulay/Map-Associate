@@ -1,0 +1,725 @@
+{
+    "name": "Root",
+    "children": [
+        {
+            "name": "fanta_orange_24_rgb",
+            "children": [
+                {
+                    "name": "coke",
+                    "value": 1.236042057402671,
+                    "children": []
+                },
+                {
+                    "name": "coke_12_np",
+                    "value": 0.7745143540011948,
+                    "children": []
+                },
+                {
+                    "name": "coke_12np",
+                    "value": 0.5880138238475616,
+                    "children": []
+                },
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.6218849765598684,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 0.7863593631569228,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 0.535530071776256,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 1.7010212412425452,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 1.7172567216941972,
+                    "children": []
+                },
+                {
+                    "name": "minute_maid_embe_12_np",
+                    "value": 0.588915297408733,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 1.7042665173670342,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 0.6371595454002288,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 1.6738467507592167,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 1.737702271858723,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "coke",
+            "children": [
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.2360420574026711,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "coke_12_np",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.8205635598622976,
+                    "children": []
+                },
+                {
+                    "name": "fanta_fruit_blast_12_np",
+                    "value": 4.66576943750808,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 5.3035921613742065,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.7745143540011948,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12_np",
+                    "value": 5.248051733213023,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12_np",
+                    "value": 5.297767867962482,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 3.3457922164625646,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "coke_24_rgb",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 0.8205635598622975,
+                    "children": []
+                },
+                {
+                    "name": "coke_12np",
+                    "value": 0.5911751884919033,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 0.8020375710264108,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 0.5463759985364961,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.6218849765598684,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 1.5972685779533968,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 1.7272631481316805,
+                    "children": []
+                },
+                {
+                    "name": "minute_maid_embe_12_np",
+                    "value": 0.6101596312814613,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 1.5251915130061762,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 0.6847104976286039,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 1.5512671412001233,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 1.8082263216217975,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_fruit_blast_12_np",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 4.66576943750808,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 5.019706001465523,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 3.9900775505126016,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_orange_12_np",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 5.3035921613742065,
+                    "children": []
+                },
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.8020375710264108,
+                    "children": []
+                },
+                {
+                    "name": "fanta_fruit_blast_12_np",
+                    "value": 5.019706001465523,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.7863593631569228,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12_np",
+                    "value": 5.671986468483841,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12_np",
+                    "value": 5.701292498299344,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 3.500788338196262,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_passion_12_np",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 5.248051733213023,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 5.6719864684838415,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12_np",
+                    "value": 11.501999011089922,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 3.9679233905010007,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_pineapple_12_np",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 5.297767867962482,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 5.701292498299344,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12_np",
+                    "value": 11.501999011089922,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 4.040200171560815,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "sprite_12np",
+            "children": [
+                {
+                    "name": "coke_12_np",
+                    "value": 3.345792216462565,
+                    "children": []
+                },
+                {
+                    "name": "coke_12np",
+                    "value": 2.0097664444140917,
+                    "children": []
+                },
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.6847104976286039,
+                    "children": []
+                },
+                {
+                    "name": "fanta_fruit_blast_12_np",
+                    "value": 3.990077550512601,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12_np",
+                    "value": 3.500788338196262,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 2.0329590629077776,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.6371595454002288,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12_np",
+                    "value": 3.967923390501001,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12np",
+                    "value": 3.09902156366791,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12_np",
+                    "value": 4.040200171560815,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12np",
+                    "value": 2.20866032918075,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "coke_12np",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.5911751884919033,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 3.161674832001725,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.5880138238475615,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12np",
+                    "value": 3.052557935908198,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12np",
+                    "value": 3.2040700508355995,
+                    "children": []
+                },
+                {
+                    "name": "minute_maid_embe_12_np",
+                    "value": 1.1276250111256911,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 2.009766444414092,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_orange_12np",
+            "children": [
+                {
+                    "name": "coke_12np",
+                    "value": 3.161674832001725,
+                    "children": []
+                },
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.5463759985364961,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.5355300717762561,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12np",
+                    "value": 3.394816116480482,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12np",
+                    "value": 4.030995130858187,
+                    "children": []
+                },
+                {
+                    "name": "minute_maid_embe_12_np",
+                    "value": 1.2183916278118012,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 2.0329590629077776,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_passion_12np",
+            "children": [
+                {
+                    "name": "coke_12np",
+                    "value": 3.052557935908198,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 3.394816116480482,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_12np",
+                    "value": 4.265141011253632,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 3.09902156366791,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_pineapple_12np",
+            "children": [
+                {
+                    "name": "coke_12np",
+                    "value": 3.204070050835599,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 4.030995130858186,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_12np",
+                    "value": 4.265141011253632,
+                    "children": []
+                },
+                {
+                    "name": "sprite_12np",
+                    "value": 2.2086603291807503,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "minute_maid_embe_12_np",
+            "children": [
+                {
+                    "name": "coke_12np",
+                    "value": 1.127625011125691,
+                    "children": []
+                },
+                {
+                    "name": "coke_24_rgb",
+                    "value": 0.6101596312814613,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_12np",
+                    "value": 1.2183916278118012,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 0.5889152974087332,
+                    "children": []
+                },
+                {
+                    "name": "minute_maid_apple_12_np",
+                    "value": 3.8224924151770137,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_passion_24_rgb",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.5972685779533968,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.7010212412425452,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 2.2789937406205096,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 2.9179361109194017,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 2.73492828836817,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 2.1651117123301638,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_pineapple_24_rgb",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.7272631481316805,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.7172567216941972,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 2.2789937406205096,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 2.1414769333460177,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 2.0422445862924183,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 1.9954735466220996,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "sparletta_pinenut_24_rgb",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.5251915130061762,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.7042665173670344,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 2.9179361109194017,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 2.1414769333460177,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 3.1490281941948686,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 2.284951796735473,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "sprite_24_rgb",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.5512671412001233,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.6738467507592167,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 2.7349282883681703,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 2.0422445862924183,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 3.149028194194868,
+                    "children": []
+                },
+                {
+                    "name": "tangawizi_24_rgb",
+                    "value": 2.079483548013413,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "tangawizi_24_rgb",
+            "children": [
+                {
+                    "name": "coke_24_rgb",
+                    "value": 1.8082263216217977,
+                    "children": []
+                },
+                {
+                    "name": "fanta_orange_24_rgb",
+                    "value": 1.737702271858723,
+                    "children": []
+                },
+                {
+                    "name": "fanta_passion_24_rgb",
+                    "value": 2.1651117123301638,
+                    "children": []
+                },
+                {
+                    "name": "fanta_pineapple_24_rgb",
+                    "value": 1.9954735466220996,
+                    "children": []
+                },
+                {
+                    "name": "sparletta_pinenut_24_rgb",
+                    "value": 2.284951796735473,
+                    "children": []
+                },
+                {
+                    "name": "sprite_24_rgb",
+                    "value": 2.079483548013413,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "coke__6np",
+            "children": [
+                {
+                    "name": "fanta_orange_6_np",
+                    "value": 8.041945529698205,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "fanta_orange_6_np",
+            "children": [
+                {
+                    "name": "coke__6np",
+                    "value": 8.041945529698205,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "minute_maid_apple_12_np",
+            "children": [
+                {
+                    "name": "minute_maid_embe_12_np",
+                    "value": 3.822492415177014,
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
