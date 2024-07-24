@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "id": "coke",
+      "parents": [
+        "fanta_orange_24_rgb"
+      ]
+    },
+    {
+      "id": "fanta_orange_24_rgb",
+      "parents": [
+        "coke"
+      ]
+    },
+    {
+      "id": "coke_12_np",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "coke_24_rgb",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "fanta_fruit_blast_12_np",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "fanta_orange_12_np",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "fanta_passion_12_np",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "fanta_pineapple_12_np",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "sprite_12np",
+      "parents": [
+        "coke_12_np"
+      ]
+    },
+    {
+      "id": "coke_12np",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "fanta_orange_12np",
+      "parents": [
+        "coke_12np"
+      ]
+    },
+    {
+      "id": "fanta_passion_12np",
+      "parents": [
+        "coke_12np"
+      ]
+    },
+    {
+      "id": "fanta_pineapple_12np",
+      "parents": [
+        "coke_12np"
+      ]
+    },
+    {
+      "id": "minute_maid_embe_12_np",
+      "parents": [
+        "coke_12np"
+      ]
+    },
+    {
+      "id": "fanta_passion_24_rgb",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "fanta_pineapple_24_rgb",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "sparletta_pinenut_24_rgb",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "sprite_24_rgb",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "tangawizi_24_rgb",
+      "parents": [
+        "coke_24_rgb"
+      ]
+    },
+    {
+      "id": "coke__6np",
+      "parents": [
+        "fanta_orange_6_np"
+      ]
+    },
+    {
+      "id": "fanta_orange_6_np",
+      "parents": [
+        "coke__6np"
+      ]
+    },
+    {
+      "id": "minute_maid_apple_12_np",
+      "parents": [
+        "minute_maid_embe_12_np"
+      ]
+    }
+  ]
+]
