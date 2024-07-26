@@ -24,8 +24,8 @@
 </head>
 <body>
     <script>
-        const width = 1200;
-        const height = 800;
+        const width = window.innerWidth;
+        const height = window.innerHeight;
 
         const svg = d3.select("body").append("svg")
             .attr("width", width)
