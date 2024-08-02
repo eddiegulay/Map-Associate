@@ -1,2 +1,4 @@
 .history
 *.csv
+cache
+__pycache__/*
