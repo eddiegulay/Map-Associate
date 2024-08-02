@@ -1,7 +1,7 @@
 from src import recommend_products
 
 
-product_list = ['potatoes']
-prods = recommend_products(product_list, rules)
+product_list = ['oil','salt']
+prods = recommend_products(product_list)
 
 print(prods)
